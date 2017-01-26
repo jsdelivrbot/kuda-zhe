@@ -1,0 +1,56 @@
+.navbar {
+    list-style: none;
+    border-bottom: 0.1em solid black;
+    margin-bottom: 2em;
+    padding: 0 0 0.5em;
+
+    display: none;
+}
+
+.navbar:before {
+    content: "[";
+}
+
+.navbar:after {
+    content: "]";
+}
+
+.navbar > li {
+    display: inline;
+}
+
+.navbar > li + li:before {
+    content: "|";
+    padding-right: 0.3em;
+}
+
+.menu {
+    width: 25%;
+    height: 800px;
+    /*word-wrap: break-word;*/
+}
+
+ng-map {
+    width: 75%;
+    height: 800px;
+}
+
+.repeater-container {
+    height: 800px;
+    width: 100%;
+    overflow: auto;
+}
+
+.flex-container {
+    display: flex;
+    /*width: 400px;*/
+    /*height: 250px;*/
+    /*background-color: lightgrey;*/
+}
+
+.flex-item {
+    /*background-color: cornflowerblue;*/
+    /*width: 100px;*/
+    /*height: 100px;*/
+    /*margin: 10px;*/
+}
