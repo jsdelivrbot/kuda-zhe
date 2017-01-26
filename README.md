@@ -1,2 +1,2 @@
 # Куда-Ж
-https://hardkoro.github.io/kuda-zhe/
+https://rawgit.com/hardkoro/kuda-zhe/master/index.html#!/view1
