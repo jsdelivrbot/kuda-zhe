@@ -1,2 +1,2 @@
-# TravelBoard
-https://yonesko.github.io/TravelBoard/
+# Куда-Ж
+https://hardkoro.github.io/kuda-zhe/
